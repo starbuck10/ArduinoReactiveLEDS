@@ -1,6 +1,6 @@
 // Much help from a myriad of tutorials online:  
 // - SparkFun, FastLED Documentation(https://github.com/FastLED/FastLED/wiki/Basic-usage), @RupakPoddar on Github and Youtube,
-// various Arduino forums, and Justin Gitlin. Thanks all! /J 
+// various Arduino forums, and Justin Gitlin (@cacheflowe). Thanks all! /J 
 
 #include <FastLED.h>
 #define NUMLEDS 60
